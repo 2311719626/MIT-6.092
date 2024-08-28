@@ -8,7 +8,7 @@ Please click [Courses](https://ocw.mit.edu/courses/6-092-introduction-to-program
 ## Progress
 
 - [X] Lecture #1 Types,Variables,Operators
-- [ ] Lecture #2  More types,Methods,Conditionals
+- [X] Lecture #2  More types,Methods,Conditionals
 - [ ] Lecture #3 Loops,Arrays
 - [ ] Lecture #4 Classes and Objects
 - [ ] Lecture #5 Access Control,Class Scope,Packages,Java API
